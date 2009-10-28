@@ -1,0 +1,28 @@
+<?php
+
+	session_start();
+	//die("não encontrado controller. ".);
+	if(file_exists(strtolower(BaseController::dispatchcontroller()).'controller.php')){
+		require_once (strtolower(BaseController::dispatchcontroller()).'controller.php');
+		$class = ucfirst(BaseController::dispatchcontroller()).'Controller';
+		$controler = new $class;
+	}else{
+		header("HTTP/1.0 404 Not Found");
+		die(0);
+		//die(BaseController::dispatchcontroller(). " não encontrado controller. ".$_SERVER['REDIRECT_QUERY_STRING']);
+	}
+
+function __autoload($class_name) {
+    includeclass($class_name);
+}
+	
+function includeclass($class_name){
+	if(file_exists(strtolower($class_name).'.php'))
+		require_once(strtolower($class_name) . '.php');
+	else if(file_exists('model/'.strtolower($class_name).'.php'))
+			require_once('model/'. strtolower($class_name) . '.php');
+	else if(file_exists('../lib/'.strtolower($class_name).'.php'))
+				require_once('../lib/'. strtolower($class_name) . '.php');
+}
+	
+?>

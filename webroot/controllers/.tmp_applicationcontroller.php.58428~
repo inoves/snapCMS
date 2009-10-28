@@ -1,0 +1,18 @@
+<?php
+/**
+* Classe onde todos os metodos estão disponiveis para todas as classes controllers
+*/
+class ApplicationController
+{
+	
+	var $beforefilter = array('getmenu'=>'meusargumentos');
+	
+	//exemplo de uma montagem de menu, ver MyTemplate.php
+	function getmenu($arg)
+	{
+		global $menu;
+		$menu = array('menu1', 'menu2', 'menu3', 'menu4', 'menu5', 'menu6');
+	}
+}
+
+?>

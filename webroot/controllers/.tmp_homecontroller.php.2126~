@@ -1,0 +1,24 @@
+<?php
+/**
+* MyTemplate 
+*/
+class HomeController extends MyTemplate
+{
+	
+	public function index()
+	{
+		global $title;
+		$title = 'titleeeeee';
+		$myaction = "Controller HOME - action INDEX";
+		include("views/home/index.php");
+	}
+	
+	public function vamos($id='', $nome='')
+	{
+		//$this->layout = "layout2";
+		return "$id = $nome";
+	}
+
+}
+
+?>
