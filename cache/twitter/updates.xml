@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statuses type="array">
+<status>
+  <created_at>Thu Oct 29 16:09:21 +0000 2009</created_at>
+  <id>5262276846</id>
+  <text>http://twitter.com/barackobama</text>
+  <source>&lt;a href="http://echofon.com/" rel="nofollow"&gt;Echofon&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>15723267</id>
+    <name>Steven Koch</name>
+    <screen_name>stvkoch</screen_name>
+    <location/>
+    <description/>
+    <profile_image_url>http://a3.twimg.com/profile_images/60762703/foto_normal.jpg</profile_image_url>
+    <url>http://www.surfih.com/surfer/stvkoch</url>
+    <protected>false</protected>
+    <followers_count>29</followers_count>
+    <profile_background_color>1A1B1F</profile_background_color>
+    <profile_text_color>666666</profile_text_color>
+    <profile_link_color>2FC2EF</profile_link_color>
+    <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+    <friends_count>13</friends_count>
+    <created_at>Mon Aug 04 15:20:41 +0000 2008</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>0</utc_offset>
+    <time_zone>Lisbon</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/3111625/100572651_61a3b58566_o.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>53</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Thu Oct 29 15:58:04 +0000 2009</created_at>
+  <id>5262001039</id>
+  <text>25 personalidas mais criativas segundo FastCompany http://bit.ly/40Srnn</text>
+  <source>&lt;a href="http://echofon.com/" rel="nofollow"&gt;Echofon&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>15723267</id>
+    <name>Steven Koch</name>
+    <screen_name>stvkoch</screen_name>
+    <location/>
+    <description/>
+    <profile_image_url>http://a3.twimg.com/profile_images/60762703/foto_normal.jpg</profile_image_url>
+    <url>http://www.surfih.com/surfer/stvkoch</url>
+    <protected>false</protected>
+    <followers_count>29</followers_count>
+    <profile_background_color>1A1B1F</profile_background_color>
+    <profile_text_color>666666</profile_text_color>
+    <profile_link_color>2FC2EF</profile_link_color>
+    <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+    <friends_count>13</friends_count>
+    <created_at>Mon Aug 04 15:20:41 +0000 2008</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>0</utc_offset>
+    <time_zone>Lisbon</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/3111625/100572651_61a3b58566_o.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>53</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Thu Oct 29 15:44:20 +0000 2009</created_at>
+  <id>5261673669</id>
+  <text>Using Nature as Divine Design Inspiration http://bit.ly/ka5kV</text>
+  <source>&lt;a href="http://echofon.com/" rel="nofollow"&gt;Echofon&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>15723267</id>
+    <name>Steven Koch</name>
+    <screen_name>stvkoch</screen_name>
+    <location/>
+    <description/>
+    <profile_image_url>http://a3.twimg.com/profile_images/60762703/foto_normal.jpg</profile_image_url>
+    <url>http://www.surfih.com/surfer/stvkoch</url>
+    <protected>false</protected>
+    <followers_count>29</followers_count>
+    <profile_background_color>1A1B1F</profile_background_color>
+    <profile_text_color>666666</profile_text_color>
+    <profile_link_color>2FC2EF</profile_link_color>
+    <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+    <friends_count>13</friends_count>
+    <created_at>Mon Aug 04 15:20:41 +0000 2008</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>0</utc_offset>
+    <time_zone>Lisbon</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/3111625/100572651_61a3b58566_o.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>53</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Wed Oct 28 09:10:30 +0000 2009</created_at>
+  <id>5226038884</id>
+  <text>Biomímica- Inspiração na natureza: - Interessante video - http://tinyurl.com/m26vb5</text>
+  <source>&lt;a href="http://echofon.com/" rel="nofollow"&gt;Echofon&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>15723267</id>
+    <name>Steven Koch</name>
+    <screen_name>stvkoch</screen_name>
+    <location/>
+    <description/>
+    <profile_image_url>http://a3.twimg.com/profile_images/60762703/foto_normal.jpg</profile_image_url>
+    <url>http://www.surfih.com/surfer/stvkoch</url>
+    <protected>false</protected>
+    <followers_count>29</followers_count>
+    <profile_background_color>1A1B1F</profile_background_color>
+    <profile_text_color>666666</profile_text_color>
+    <profile_link_color>2FC2EF</profile_link_color>
+    <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+    <friends_count>13</friends_count>
+    <created_at>Mon Aug 04 15:20:41 +0000 2008</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>0</utc_offset>
+    <time_zone>Lisbon</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/3111625/100572651_61a3b58566_o.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>53</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Fri Oct 09 12:33:18 +0000 2009</created_at>
+  <id>4733143475</id>
+  <text>http://wcm.local/page/26/ NEW: Samsung N120-12GBK 10.1-Inch Black Netbook - 6 Cell Battery Weighing just 2.8 pounds, the Samsung N120-12GBK</text>
+  <source>&lt;a href="http://apiwiki.twitter.com/" rel="nofollow"&gt;API&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>15723267</id>
+    <name>Steven Koch</name>
+    <screen_name>stvkoch</screen_name>
+    <location/>
+    <description/>
+    <profile_image_url>http://a3.twimg.com/profile_images/60762703/foto_normal.jpg</profile_image_url>
+    <url>http://www.surfih.com/surfer/stvkoch</url>
+    <protected>false</protected>
+    <followers_count>29</followers_count>
+    <profile_background_color>1A1B1F</profile_background_color>
+    <profile_text_color>666666</profile_text_color>
+    <profile_link_color>2FC2EF</profile_link_color>
+    <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+    <friends_count>13</friends_count>
+    <created_at>Mon Aug 04 15:20:41 +0000 2008</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>0</utc_offset>
+    <time_zone>Lisbon</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/3111625/100572651_61a3b58566_o.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>53</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Tue Sep 08 12:24:41 +0000 2009</created_at>
+  <id>3839072534</id>
+  <text>cool http://bit.ly/10tKQh</text>
+  <source>&lt;a href="http://echofon.com/" rel="nofollow"&gt;Echofon&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>15723267</id>
+    <name>Steven Koch</name>
+    <screen_name>stvkoch</screen_name>
+    <location/>
+    <description/>
+    <profile_image_url>http://a3.twimg.com/profile_images/60762703/foto_normal.jpg</profile_image_url>
+    <url>http://www.surfih.com/surfer/stvkoch</url>
+    <protected>false</protected>
+    <followers_count>29</followers_count>
+    <profile_background_color>1A1B1F</profile_background_color>
+    <profile_text_color>666666</profile_text_color>
+    <profile_link_color>2FC2EF</profile_link_color>
+    <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+    <friends_count>13</friends_count>
+    <created_at>Mon Aug 04 15:20:41 +0000 2008</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>0</utc_offset>
+    <time_zone>Lisbon</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/3111625/100572651_61a3b58566_o.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>53</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Tue Aug 25 08:50:49 +0000 2009</created_at>
+  <id>3531526936</id>
+  <text>Navarra - Terra de Diversidade  Porquê Navarra?Porque nos poucos kilómetros que...http://www.flytap.com/Portugal/pt/Destinos/EmDestaque/9132</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>15723267</id>
+    <name>Steven Koch</name>
+    <screen_name>stvkoch</screen_name>
+    <location/>
+    <description/>
+    <profile_image_url>http://a3.twimg.com/profile_images/60762703/foto_normal.jpg</profile_image_url>
+    <url>http://www.surfih.com/surfer/stvkoch</url>
+    <protected>false</protected>
+    <followers_count>29</followers_count>
+    <profile_background_color>1A1B1F</profile_background_color>
+    <profile_text_color>666666</profile_text_color>
+    <profile_link_color>2FC2EF</profile_link_color>
+    <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+    <friends_count>13</friends_count>
+    <created_at>Mon Aug 04 15:20:41 +0000 2008</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>0</utc_offset>
+    <time_zone>Lisbon</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/3111625/100572651_61a3b58566_o.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>53</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Fri Aug 14 09:33:39 +0000 2009</created_at>
+  <id>3304944201</id>
+  <text>http://wiki.opscode.com/display/chef/Home</text>
+  <source>&lt;a href="http://echofon.com/" rel="nofollow"&gt;Echofon&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>15723267</id>
+    <name>Steven Koch</name>
+    <screen_name>stvkoch</screen_name>
+    <location/>
+    <description/>
+    <profile_image_url>http://a3.twimg.com/profile_images/60762703/foto_normal.jpg</profile_image_url>
+    <url>http://www.surfih.com/surfer/stvkoch</url>
+    <protected>false</protected>
+    <followers_count>29</followers_count>
+    <profile_background_color>1A1B1F</profile_background_color>
+    <profile_text_color>666666</profile_text_color>
+    <profile_link_color>2FC2EF</profile_link_color>
+    <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+    <friends_count>13</friends_count>
+    <created_at>Mon Aug 04 15:20:41 +0000 2008</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>0</utc_offset>
+    <time_zone>Lisbon</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/3111625/100572651_61a3b58566_o.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>53</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Fri Jul 24 10:59:30 +0000 2009</created_at>
+  <id>2816606845</id>
+  <text>Fazer downloads ou compartilhar suas canções livremente, de graça e inlimitado? http://www.jamendo.com</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>15723267</id>
+    <name>Steven Koch</name>
+    <screen_name>stvkoch</screen_name>
+    <location/>
+    <description/>
+    <profile_image_url>http://a3.twimg.com/profile_images/60762703/foto_normal.jpg</profile_image_url>
+    <url>http://www.surfih.com/surfer/stvkoch</url>
+    <protected>false</protected>
+    <followers_count>29</followers_count>
+    <profile_background_color>1A1B1F</profile_background_color>
+    <profile_text_color>666666</profile_text_color>
+    <profile_link_color>2FC2EF</profile_link_color>
+    <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+    <friends_count>13</friends_count>
+    <created_at>Mon Aug 04 15:20:41 +0000 2008</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>0</utc_offset>
+    <time_zone>Lisbon</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/3111625/100572651_61a3b58566_o.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>53</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Mon Jul 06 21:44:40 +0000 2009</created_at>
+  <id>2503530598</id>
+  <text>piwik.org . open source web analytics software program. No more googgle analytics!</text>
+  <source>&lt;a href="http://echofon.com/" rel="nofollow"&gt;Echofon&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>15723267</id>
+    <name>Steven Koch</name>
+    <screen_name>stvkoch</screen_name>
+    <location/>
+    <description/>
+    <profile_image_url>http://a3.twimg.com/profile_images/60762703/foto_normal.jpg</profile_image_url>
+    <url>http://www.surfih.com/surfer/stvkoch</url>
+    <protected>false</protected>
+    <followers_count>29</followers_count>
+    <profile_background_color>1A1B1F</profile_background_color>
+    <profile_text_color>666666</profile_text_color>
+    <profile_link_color>2FC2EF</profile_link_color>
+    <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+    <friends_count>13</friends_count>
+    <created_at>Mon Aug 04 15:20:41 +0000 2008</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>0</utc_offset>
+    <time_zone>Lisbon</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/3111625/100572651_61a3b58566_o.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>53</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Tue Jun 30 09:36:58 +0000 2009</created_at>
+  <id>2401505370</id>
+  <text>Top 10 Tutorials to Develop iPhone Apps: Some interesting tutorials if you’re just getting started with iP..http://tinyurl.com/nqn6eq</text>
+  <source>&lt;a href="http://echofon.com/" rel="nofollow"&gt;Echofon&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>15723267</id>
+    <name>Steven Koch</name>
+    <screen_name>stvkoch</screen_name>
+    <location/>
+    <description/>
+    <profile_image_url>http://a3.twimg.com/profile_images/60762703/foto_normal.jpg</profile_image_url>
+    <url>http://www.surfih.com/surfer/stvkoch</url>
+    <protected>false</protected>
+    <followers_count>29</followers_count>
+    <profile_background_color>1A1B1F</profile_background_color>
+    <profile_text_color>666666</profile_text_color>
+    <profile_link_color>2FC2EF</profile_link_color>
+    <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+    <friends_count>13</friends_count>
+    <created_at>Mon Aug 04 15:20:41 +0000 2008</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>0</utc_offset>
+    <time_zone>Lisbon</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/3111625/100572651_61a3b58566_o.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>53</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Fri May 15 14:50:40 +0000 2009</created_at>
+  <id>1806606436</id>
+  <text>Semantica, metadados, integração.... web 3.0</text>
+  <source>&lt;a href="http://echofon.com/" rel="nofollow"&gt;Echofon&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>15723267</id>
+    <name>Steven Koch</name>
+    <screen_name>stvkoch</screen_name>
+    <location/>
+    <description/>
+    <profile_image_url>http://a3.twimg.com/profile_images/60762703/foto_normal.jpg</profile_image_url>
+    <url>http://www.surfih.com/surfer/stvkoch</url>
+    <protected>false</protected>
+    <followers_count>29</followers_count>
+    <profile_background_color>1A1B1F</profile_background_color>
+    <profile_text_color>666666</profile_text_color>
+    <profile_link_color>2FC2EF</profile_link_color>
+    <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+    <friends_count>13</friends_count>
+    <created_at>Mon Aug 04 15:20:41 +0000 2008</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>0</utc_offset>
+    <time_zone>Lisbon</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/3111625/100572651_61a3b58566_o.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>53</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Fri May 15 14:16:44 +0000 2009</created_at>
+  <id>1806290835</id>
+  <text>Surpresas... A quanto tempo não tens uma? Digo uma daquela surpresa que voce nunca(NUNCA) poderias imaginar??? Quanto tempo faz???</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>15723267</id>
+    <name>Steven Koch</name>
+    <screen_name>stvkoch</screen_name>
+    <location/>
+    <description/>
+    <profile_image_url>http://a3.twimg.com/profile_images/60762703/foto_normal.jpg</profile_image_url>
+    <url>http://www.surfih.com/surfer/stvkoch</url>
+    <protected>false</protected>
+    <followers_count>29</followers_count>
+    <profile_background_color>1A1B1F</profile_background_color>
+    <profile_text_color>666666</profile_text_color>
+    <profile_link_color>2FC2EF</profile_link_color>
+    <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+    <friends_count>13</friends_count>
+    <created_at>Mon Aug 04 15:20:41 +0000 2008</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>0</utc_offset>
+    <time_zone>Lisbon</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/3111625/100572651_61a3b58566_o.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>53</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Fri May 15 11:09:57 +0000 2009</created_at>
+  <id>1804973072</id>
+  <text>Seja pró-activo em buscar novas oportunidades. Seja pró-activo em aprender novos assuntos e amplie seu campo de oportunidades.</text>
+  <source>&lt;a href="http://echofon.com/" rel="nofollow"&gt;Echofon&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>15723267</id>
+    <name>Steven Koch</name>
+    <screen_name>stvkoch</screen_name>
+    <location/>
+    <description/>
+    <profile_image_url>http://a3.twimg.com/profile_images/60762703/foto_normal.jpg</profile_image_url>
+    <url>http://www.surfih.com/surfer/stvkoch</url>
+    <protected>false</protected>
+    <followers_count>29</followers_count>
+    <profile_background_color>1A1B1F</profile_background_color>
+    <profile_text_color>666666</profile_text_color>
+    <profile_link_color>2FC2EF</profile_link_color>
+    <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+    <friends_count>13</friends_count>
+    <created_at>Mon Aug 04 15:20:41 +0000 2008</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>0</utc_offset>
+    <time_zone>Lisbon</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/3111625/100572651_61a3b58566_o.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>53</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Fri May 15 10:48:56 +0000 2009</created_at>
+  <id>1804869480</id>
+  <text>Ser pró-activo: "A falta de oportunidade pode atrofiar o conhecimento/entendimento." - Comprovadamente!</text>
+  <source>&lt;a href="http://echofon.com/" rel="nofollow"&gt;Echofon&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>15723267</id>
+    <name>Steven Koch</name>
+    <screen_name>stvkoch</screen_name>
+    <location/>
+    <description/>
+    <profile_image_url>http://a3.twimg.com/profile_images/60762703/foto_normal.jpg</profile_image_url>
+    <url>http://www.surfih.com/surfer/stvkoch</url>
+    <protected>false</protected>
+    <followers_count>29</followers_count>
+    <profile_background_color>1A1B1F</profile_background_color>
+    <profile_text_color>666666</profile_text_color>
+    <profile_link_color>2FC2EF</profile_link_color>
+    <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+    <friends_count>13</friends_count>
+    <created_at>Mon Aug 04 15:20:41 +0000 2008</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>0</utc_offset>
+    <time_zone>Lisbon</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/3111625/100572651_61a3b58566_o.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>53</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Wed May 13 20:16:22 +0000 2009</created_at>
+  <id>1787571060</id>
+  <text>http://events.carsonified.com/fowd future of web design conference... very good to watch</text>
+  <source>&lt;a href="http://echofon.com/" rel="nofollow"&gt;Echofon&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>15723267</id>
+    <name>Steven Koch</name>
+    <screen_name>stvkoch</screen_name>
+    <location/>
+    <description/>
+    <profile_image_url>http://a3.twimg.com/profile_images/60762703/foto_normal.jpg</profile_image_url>
+    <url>http://www.surfih.com/surfer/stvkoch</url>
+    <protected>false</protected>
+    <followers_count>29</followers_count>
+    <profile_background_color>1A1B1F</profile_background_color>
+    <profile_text_color>666666</profile_text_color>
+    <profile_link_color>2FC2EF</profile_link_color>
+    <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+    <friends_count>13</friends_count>
+    <created_at>Mon Aug 04 15:20:41 +0000 2008</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>0</utc_offset>
+    <time_zone>Lisbon</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/3111625/100572651_61a3b58566_o.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>53</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Fri May 08 10:49:52 +0000 2009</created_at>
+  <id>1736458106</id>
+  <text>É lindo ver criticas agressivas de PHP em blogs Wordpress...</text>
+  <source>&lt;a href="http://echofon.com/" rel="nofollow"&gt;Echofon&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>15723267</id>
+    <name>Steven Koch</name>
+    <screen_name>stvkoch</screen_name>
+    <location/>
+    <description/>
+    <profile_image_url>http://a3.twimg.com/profile_images/60762703/foto_normal.jpg</profile_image_url>
+    <url>http://www.surfih.com/surfer/stvkoch</url>
+    <protected>false</protected>
+    <followers_count>29</followers_count>
+    <profile_background_color>1A1B1F</profile_background_color>
+    <profile_text_color>666666</profile_text_color>
+    <profile_link_color>2FC2EF</profile_link_color>
+    <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+    <friends_count>13</friends_count>
+    <created_at>Mon Aug 04 15:20:41 +0000 2008</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>0</utc_offset>
+    <time_zone>Lisbon</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/3111625/100572651_61a3b58566_o.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>53</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Thu May 07 12:58:34 +0000 2009</created_at>
+  <id>1726794035</id>
+  <text>A cara de alguns quando se fala sobre iniciativa e motivação. ": / ooOO(ah! Deste mau eu já me curei!)"</text>
+  <source>&lt;a href="http://echofon.com/" rel="nofollow"&gt;Echofon&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>15723267</id>
+    <name>Steven Koch</name>
+    <screen_name>stvkoch</screen_name>
+    <location/>
+    <description/>
+    <profile_image_url>http://a3.twimg.com/profile_images/60762703/foto_normal.jpg</profile_image_url>
+    <url>http://www.surfih.com/surfer/stvkoch</url>
+    <protected>false</protected>
+    <followers_count>29</followers_count>
+    <profile_background_color>1A1B1F</profile_background_color>
+    <profile_text_color>666666</profile_text_color>
+    <profile_link_color>2FC2EF</profile_link_color>
+    <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+    <friends_count>13</friends_count>
+    <created_at>Mon Aug 04 15:20:41 +0000 2008</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>0</utc_offset>
+    <time_zone>Lisbon</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/3111625/100572651_61a3b58566_o.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>53</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Mon May 04 20:01:54 +0000 2009</created_at>
+  <id>1698907613</id>
+  <text>Good night, peoples! I go home!</text>
+  <source>&lt;a href="http://echofon.com/" rel="nofollow"&gt;Echofon&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>15723267</id>
+    <name>Steven Koch</name>
+    <screen_name>stvkoch</screen_name>
+    <location/>
+    <description/>
+    <profile_image_url>http://a3.twimg.com/profile_images/60762703/foto_normal.jpg</profile_image_url>
+    <url>http://www.surfih.com/surfer/stvkoch</url>
+    <protected>false</protected>
+    <followers_count>29</followers_count>
+    <profile_background_color>1A1B1F</profile_background_color>
+    <profile_text_color>666666</profile_text_color>
+    <profile_link_color>2FC2EF</profile_link_color>
+    <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+    <friends_count>13</friends_count>
+    <created_at>Mon Aug 04 15:20:41 +0000 2008</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>0</utc_offset>
+    <time_zone>Lisbon</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/3111625/100572651_61a3b58566_o.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>53</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Mon May 04 20:00:17 +0000 2009</created_at>
+  <id>1698892714</id>
+  <text>Rails is easy, but PHP is my work..Doubt, I hate it!</text>
+  <source>&lt;a href="http://echofon.com/" rel="nofollow"&gt;Echofon&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>15723267</id>
+    <name>Steven Koch</name>
+    <screen_name>stvkoch</screen_name>
+    <location/>
+    <description/>
+    <profile_image_url>http://a3.twimg.com/profile_images/60762703/foto_normal.jpg</profile_image_url>
+    <url>http://www.surfih.com/surfer/stvkoch</url>
+    <protected>false</protected>
+    <followers_count>29</followers_count>
+    <profile_background_color>1A1B1F</profile_background_color>
+    <profile_text_color>666666</profile_text_color>
+    <profile_link_color>2FC2EF</profile_link_color>
+    <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+    <friends_count>13</friends_count>
+    <created_at>Mon Aug 04 15:20:41 +0000 2008</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>0</utc_offset>
+    <time_zone>Lisbon</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/3111625/100572651_61a3b58566_o.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>53</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+  <geo/>
+</status>
+</statuses>

@@ -49,7 +49,7 @@ class AdminMenusController extends BaseController
 			}
 		if ($_POST):
 			$this->view->flash = '<p class=success>Container successfully created!</p>';
-			$this->redirect_to('admin/menus');
+			$this->redirect_to('/admin/menus');
 		endif;
 		$this->view->edit_containers = $edit_containers;
 		$this->view->title_form = 'New container';

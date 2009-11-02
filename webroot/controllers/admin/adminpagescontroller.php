@@ -268,17 +268,18 @@ class AdminPagesController extends BaseController
 	
 	public function pages_list_menu($value='', $current_page=0)
 	{
-		//$per_page = 20;
-		//$current_page = (( $current_page * 1 )<=1) ? 0 : ( $current_page * 1 ) ;
-		//$limit = ((($current_page-1) * $per_page) <= 1)? 0 : (($current_page-1) * $per_page);
-		//$sql = "SELECT COUNT(*) as pages FROM pages, pages_descriptions WHERE pages.id=pages_descriptions.page_id AND pages.menu_id=".ActiveRecord::quote($value)." AND lang=".ActiveRecord::quote($this->language());
-		//$aCount = Page::query($sql);
+		//
+		$menu = Menu::find('first', array('conditions'=>'id='.ActiveRecord::quote($value.' AND lang='.ActiveRecord::quote($this->language()))));
+		//if( $menu->typeof == 'tag' ):
+			//$this->redirect_to('/admin/pages/tag/'.$menu->value_typeof.);
+		//endif;
+		
 		$sql = "SELECT pages_descriptions.*, pages.active as active, pages.product as product FROM pages, pages_descriptions WHERE pages.id=pages_descriptions.page_id AND pages.menu_id=".ActiveRecord::quote($value)." AND lang=".ActiveRecord::quote($this->language()) . " ORDER BY pages.order_menu";// LIMIT $limit, $per_page";
 		
 		$this->view->pages = PagesDescription::query_obj($sql);
 		$this->view->tags = Tag::find('all');
 
-		$this->view->title_action = 'List pages of menu \''.Menu::find('first', array('conditions'=>'id='.ActiveRecord::quote($value.' AND lang='.ActiveRecord::quote($this->language()))))->name. '\'';
+		$this->view->title_action = 'List pages of menu \''.$menu->name. '\'';
 		//$this->view->aCount = $aCount[0]['pages'];
 		//$this->view->current_page = $current_page;
 		//$this->view->per_page = $per_page;

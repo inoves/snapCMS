@@ -85,7 +85,6 @@ class HomeController extends BaseController
 			$this->view->current_page = $current_page+1;
 			$this->view->template_action = 'actions/menu.tpl';//or
 			//$this->view->template_action = $this->view->menu->typeof;
-			
 		endif;
 		
 		$this->view->aCount = $aCount[0]['count'];
@@ -105,7 +104,11 @@ class HomeController extends BaseController
 		$aCount = ActiveRecord::query("SELECT COUNT(*) as aCount FROM pages_tags, tags WHERE tags.id=pages_tags.tag_id AND tags.id=".ActiveRecord::quote($this->view->tag->id));//Count pages in tag
 		//Select pages
 		$sql = "SELECT pages.* FROM pages INNER JOIN pages_tags ON pages.id= pages_tags.page_id WHERE pages_tags.tag_id=".$this->view->tag->id." order by pages.product DESC";
-		$rows = ActiveRecord::query($sql);
+		try {
+			$rows = ActiveRecord::query($sql);
+		} catch (Exception $e){
+			$rows = array();
+		}
 		$pages = array();
 		foreach($rows as $row){
 			$pages[] = new Page($row, false);
