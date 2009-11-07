@@ -49,7 +49,8 @@ function smarty_function_cycle($params, &$smarty)
     $print = (isset($params['print'])) ? (bool)$params['print'] : true;
     $advance = (isset($params['advance'])) ? (bool)$params['advance'] : true;
     $reset = (isset($params['reset'])) ? (bool)$params['reset'] : false;
-            
+
+
     if (!in_array('values', array_keys($params))) {
         if(!isset($cycle_vars[$name]['values'])) {
             $smarty->trigger_error("cycle: missing 'values' parameter");

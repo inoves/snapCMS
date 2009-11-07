@@ -1,4 +1,5 @@
 <?php
+
 ini_set("include_path", 
 	"../plugins/:../config/:../lib/:./controllers/:./controllers/admin/:./views/:./models/generated_models/:./models/:../lib/db_adapter/:../lib/internals/:../lib/plugins:../lib/Zend/:../lib/Zend/Json/");
 

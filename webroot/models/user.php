@@ -27,13 +27,13 @@ class User extends UserBase {
 		if($group_id==null)
 			$group_id = $this->group_id;
 		
-		if($group_id==Config::$admin_group_id) return 1; //admin group priority 
+		if($group_id==Config::$admin_group_id) return true; //admin group priority 
 		
 		$per = Permission::find('first', array('conditions'=>'group_id='.$group_id.' AND controller=\''.$controller.'\' AND action=\''.$action.'\''));
 		if($per){
-			return 1;
+			return true;
 		}
-		return 0;
+		return false;
 	}
 	
 	private function valid_username()
