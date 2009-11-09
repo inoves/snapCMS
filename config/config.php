@@ -62,3 +62,7 @@ class Config{
 	static $flickr_user_id			= '23123123123@H12';
 
 }
+
+
+Config::$path_webroot = dirname(__FILE__).DIRECTORY_SEPARATOR ."..".DIRECTORY_SEPARATOR;
+Config::$path_photos = Config::$path_webroot."webroot".DIRECTORY_SEPARATOR."photos".DIRECTORY_SEPARATOR;
