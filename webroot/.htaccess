@@ -1,0 +1,17 @@
+ErrorDocument 404 404.html
+Options +FollowSymlinks
+
+RewriteEngine on
+
+
+#cache
+RewriteRule ^$ cache/index.html [QSA,N]
+RewriteRule ^([.]+)$	cache/$1/index.html [QSA]
+
+
+#other files, images, css, js...
+RewriteCond %{REQUEST_FILENAME} !-f
+
+
+#ok... apache goto script
+RewriteRule ^(.*)$ index.php?$1 [NC]

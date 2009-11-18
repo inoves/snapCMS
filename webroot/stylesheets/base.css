@@ -1,0 +1,167 @@
+/*
+TEXT
+*/
+body, h1,h2, h3, span, p, a, a.h1, a.h2, a.h3{
+	font-family:"HelveticaNeue-Light",Helvetica,Arial,sans-serif;
+	color:#000;
+}
+h1, .h1{
+	font-size:21px;
+	font-weight:bold;
+}
+h2, .h2{
+	font-size:19px;
+}
+h3, .h3{
+	font-size:16px;
+}
+.cz{
+	color:#828282;
+}
+.rd{
+	color:#7E0415;
+}
+span, p{
+	font-size:14px;
+}
+.txt{
+	font-size:11px;
+}
+.a{
+	color:#2AB7F2;
+}
+.error, .notice, .success {padding:.8em;border:2px solid #ddd;margin-top:10px;margin-bottom:10px;}
+.error {background:#FBE3E4;color:#8a1f11;border-color:#FBC2C4;margin-top:10px;margin-bottom:10px;}
+.notice {background:#FFF6BF;color:#514721;border-color:#FFD324;margin-top:10px;margin-bottom:10px;}
+.success {background:#E6EFC2;color:#264409;border-color:#C6D880; margin-top:10px;margin-bottom:10px;}
+.error a {color:#8a1f11;}
+.notice a {color:#514721;}
+.success a {color:#264409;}
+
+.menu li{
+	margin-bottom:3px;
+	padding-bottom:2px;
+	border-bottom-color: rgb(210, 218, 218);
+	border-bottom-style:dotted;
+	border-bottom-width: 1px;
+}
+/* ------------------------- */
+
+/*
+DIVs, BOXs
+*/
+.myborder{
+	border: 5px solid #ddd;
+}
+.mypadding10{
+	padding:10px;
+}
+.mybkg_cz{
+		background-color:#F6F6F6;
+}
+.mybkgbr{
+	background-color:#FFF;
+}
+.form_twitter{
+	margin:5px;
+	border: 5px solid #ddd;
+	padding:10px;
+	background-color:#FDFDFD;
+}
+
+
+/*
+TWITTERs
+*/
+div.twitters ol{
+	padding:10px;
+}
+li.twitter{
+	background-color: rgb(247, 247, 247);
+	border-bottom-color: rgb(210, 218, 218);
+	border-bottom-style: dashed;
+	border-bottom-width: 1px;
+	border-left-color: transparent;
+	border-left-width: 0px;
+	border-right-color: transparent;
+	border-right-width: 0px;
+	border-top-color: rgb(210, 218, 218);
+	border-top-style: dashed;
+	border-top-width: 0px;
+	display: list-item;
+	line-height: 21px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	padding-bottom: 21px;
+	padding-left: 7px;
+	padding-right: 0px;
+	padding-top: 21px;
+	margin-bottom:3px;
+}
+
+
+/*
+FORMs
+*/
+.height_txtarea{
+	height:200px;
+}
+.txtarea{
+	padding:10px;
+	font-size:19px;
+	width:100%;
+}
+.submit, button{
+	width:115px;
+	height:32px;
+	font-size:16px;
+	font-weight:bold;
+	color: #8D8D8D;
+	
+	-webkit-appearance: none;
+	-webkit-border-bottom-left-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	-webkit-border-top-left-radius: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-webkit-box-align: center;
+	-webkit-box-sizing: border-box;
+	-webkit-rtl-ordering: logical;
+	-webkit-user-select: text;
+	background-color: rgb(213, 213, 213);
+	border-bottom-color: rgb(68, 68, 68);
+	border-bottom-style: none;
+	border-bottom-width: 0px;
+	border-left-color: rgb(68, 68, 68);
+	border-left-style: none;
+	border-left-width: 0px;
+	border-right-color: rgb(68, 68, 68);
+	border-right-style: none;
+	border-right-width: 0px;
+	border-top-color: rgb(68, 68, 68);
+	border-top-style: none;
+	border-top-width: 0px;
+	
+}
+.submit:hover, button{
+	font-size:16px;
+	font-weight:bold;
+	color:#575757;
+}
+input.title{
+	
+	padding:7px;
+	font-family:"HelveticaNeue-Light",Helvetica,Arial,sans-serif;
+	color:#000;
+	font-size:19px;
+	
+}
+fieldset{
+	margin-top:10px;
+	padding:20px;
+	background:#F8F8F8;
+	border: 1px solid #999;
+}
+/* ----------------------- */
+
