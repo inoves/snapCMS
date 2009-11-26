@@ -1,5 +1,5 @@
 <?php
-require_once 'Association.php';
+//require_once 'Association.php';
 class HasOne extends Association {
   function __construct(&$source, $dest, $options=null) {
     parent::__construct($source, $dest, $options);

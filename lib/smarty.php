@@ -382,7 +382,7 @@ class Smarty
      *
      * @var string
      */
-    var $compiler_file        =    'Smarty_Compiler.class.php';
+    var $compiler_file        =    'smarty_compiler.class.php';
 
     /**
      * The class used for compiling templates.

@@ -3,7 +3,7 @@
 
 class PagesDescriptionBase extends ActiveRecord {
 
-  protected $columns = array('page_id', 'title', 'intro', 'content', 'created_at', 'lang', 'serial');
+  protected $columns = array('page_id', 'title', 'intro', 'content', 'created_at', 'lang', 'serial', 'personal_fields');
   protected $table_name = 'pages_descriptions';
   protected $table_vanity_name = 'pages_descriptions';
   protected $primary_key = 'serial';

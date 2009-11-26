@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.22, created on 2009-11-17 14:43:06
+<?php /* Smarty version 2.6.22, created on 2009-11-25 21:34:21
          compiled from elements/footer_general.tpl */ ?>
 <div class="footer">
 	<div class="container_12">

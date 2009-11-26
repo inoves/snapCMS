@@ -1,7 +1,7 @@
 <?php
-require_once 'BelongsTo.php';
-require_once 'HasMany.php';
-require_once 'HasOne.php';
+//require_once 'BelongsTo.php';
+//require_once 'HasMany.php';
+//require_once 'HasOne.php';
 if (!class_exists('Inflector'))
   require_once 'inflector.php';
 require_once '../config/database.php';
@@ -127,7 +127,7 @@ class ActiveRecord {
       if the Json::decode fails, we return the original value
   */
   static function decode_if_json($json) {
-    require_once dirname(__FILE__) .DIRECTORY_SEPARATOR. 'Zend' .DIRECTORY_SEPARATOR. 'Json.php';
+    //require_once dirname(__FILE__) .DIRECTORY_SEPARATOR. 'Zend' .DIRECTORY_SEPARATOR. 'Json.php';
     if (is_string($json) && preg_match('/^\s*[\{\[]/', $json) != 0) {
       try {
         $json = Zend_Json::decode($json);
